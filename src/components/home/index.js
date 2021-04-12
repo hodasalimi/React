@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import SignIn from '../signin/signin';
 import FormFields from '../widgets/FormFields/formFields';
 import HomeSlider from './slider';
+import OnlineShopOffer from './onlineShopeOffer';
 
 class Home extends Component{
 
@@ -10,6 +11,7 @@ class Home extends Component{
             <> 
         
                 <HomeSlider/>
+                <OnlineShopOffer/>
                 
             
             </>
