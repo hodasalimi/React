@@ -140,9 +140,22 @@ footer .link-item:hover{
 /***************************************************************************************
 ***************************************online shop offer******************************************/
 .offer-title{
-    font-weight: 500;
     font-size: 30px;
     font-family: 'Roboto',cursive;
+    font-weight: 500;
+    word-spacing: 17px;
+    letter-spacing: 6px;
+    
+}
+.offer-slider-container{
+    background-size: cover;
+}
+.offer-slider-container div{
+    transition: all 1s;
+    height: 470px;
+}
+.offer-slider-container div img{
+    margin: auto;
 }
 
 
