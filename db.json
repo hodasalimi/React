@@ -18,6 +18,38 @@
       "cover": "vegtables.jpg",
       "topic": "De sss ss ad",
       "title": "Top Score of The Week"
+    },
+    {
+      "id": "4",
+      "cover": "vegtable.jpg",
+      "topic": "De sss ss ad",
+      "title": "Top Score of The Week"
+    }
+  ],
+  "sales": [
+    {
+      "id": "1",
+      "cover": "grocery-sale.jpg",
+      "topic": "De sss ss ad",
+      "content": "Top Score of The Week"
+    },
+    {
+      "id": "2",
+      "cover": "wein-sale.jpg",
+      "topic": "De sss ss ad",
+      "content": "Top Score of The Week"
+    },
+    {
+      "id": "3",
+      "cover": "household-sale.jpg",
+      "topic": "De sss ss ad",
+      "content": "Top Score of The Week"
+    },
+    {
+      "id": "4",
+      "cover": "meat-sale.jpg",
+      "topic": "De sss ss ad",
+      "content": "Top Score of The Week"
     }
   ]
 

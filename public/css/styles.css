@@ -157,6 +157,37 @@ footer .link-item:hover{
 .offer-slider-container div img{
     margin: auto;
 }
+/***************************************************************************************
+***************************************sales*****************************************/
+.sale-container{
+    margin-top:30px;
+    margin-bottom:60px;
+}
+
+.sale-item-container{
+    position: relative;
+}
+
+.sale-item{
+    position: relative;
+    width: 287px;
+    height: 370px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-family: 'Roboto',cursive;
+    opacity:85%;
+    transition: all .5;
+
+}
+.sale-item:hover{
+    opacity:100%;
+}
+
+.item.percent{
+position: relative;
+top:100%;
+
+}
 
 
 
