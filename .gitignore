@@ -24,3 +24,4 @@ yarn-error.log*
 src/components/home/onlineShopeOffer.js
 src/components/home/index.js
 db.json
+src/components/home/sale.js
