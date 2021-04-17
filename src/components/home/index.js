@@ -4,15 +4,17 @@ import FormFields from '../widgets/FormFields/formFields';
 import HomeSlider from './slider';
 import OnlineShopOffer from './onlineShopeOffer';
 import Sale from './sale';
+import SaleHeader from './saleHeader';
 class Home extends Component{
 
     render(){
         return(
             <> 
-        
+                
                 <HomeSlider/>
                 <OnlineShopOffer/>
                 <Sale/>
+                
                 
             
             </>

@@ -148,6 +148,7 @@ footer .link-item:hover{
     
 }
 .offer-slider-container{
+    margin-bottom: 0% !important;
     background-size: cover;
 }
 .offer-slider-container div{
@@ -193,6 +194,11 @@ footer .link-item:hover{
     border-bottom-right-radius: 5px;
     color: #fff;
     
+}
+
+.slide-up{
+    transition: all 1s;
+    opacity: 0;
 }
 
 
